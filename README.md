@@ -8,7 +8,7 @@ Das Projekt entstand als Abschlussprojekt im Python/KI-Kurs. Verschiedene KI-Tei
 
 | Streamlit (hell) | Streamlit (dunkel) |
 |---|---|
-| ![Web interface, light](public/media/web-hell.webp) | ![Web interface, dark](public/media/web-dunkel.webp) |
+| ![Web interface, light](src/web-hell.webp) | ![Web interface, dark](src/web-dunkel.webp) |
 
 ## Tech-Stack
 
