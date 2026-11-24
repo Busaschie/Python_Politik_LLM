@@ -6,6 +6,10 @@ Aufbau eines eigenen LLM für eine politische Diskussionsrunde, die per KI simul
 
 Das Projekt entstand als Abschlussprojekt im Python/KI-Kurs. Verschiedene KI-Teilnehmer diskutieren politische Themen miteinander; die Oberfläche läuft über Streamlit.
 
+| Streamlit (hell) | Streamlit (dunkel) |
+|---|---|
+| ![Web interface, light](public/media/web-hell.webp) | ![Web interface, dark](public/media/web-dunkel.webp) |
+
 ## Tech-Stack
 
 - Python
